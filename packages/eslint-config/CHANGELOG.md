@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://www.github.com/typescord/beauty/compare/eslint-config-v0.4.0...eslint-config-v0.5.0) (2021-06-13)
+
+
+### Features
+
+* disable unicorn/prefer-module ([9510487](https://www.github.com/typescord/beauty/commit/9510487a3e1255d7a68dfb88f375aeee100ea5bd))
+
 ## [0.4.0](https://www.github.com/typescord/beauty/compare/eslint-config-v0.3.1...eslint-config-v0.4.0) (2021-06-13)
 
 
